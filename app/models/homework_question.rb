@@ -1,0 +1,2 @@
+class HomeworkQuestion < ApplicationRecord
+end

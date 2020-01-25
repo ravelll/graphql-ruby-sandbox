@@ -1,0 +1,2 @@
+class HomeworkMarking < ApplicationRecord
+end

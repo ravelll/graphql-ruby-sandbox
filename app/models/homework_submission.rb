@@ -1,0 +1,2 @@
+class HomeworkSubmission < ApplicationRecord
+end
